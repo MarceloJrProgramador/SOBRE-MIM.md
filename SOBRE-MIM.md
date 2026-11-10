@@ -16,13 +16,11 @@ Tenho interesse em transformar problemas reais em soluções utilizando **dados,
 
 # 👨‍💼 Perfil Profissional
 
-🎓 **Estudante de Análise de Dados — Universidade Cruzeiro do Sul**
-
-🏫 **Coordenador Pedagógico — Microlins**
+🎓 **Estudante de Análise de Sistema — Universidade Cruzeiro do Sul**
 
 👨‍🏫 **Instrutor de Cursos Livres — Microlins**
 
-📊 Foco em **Análise de Dados e Desenvolvimento Front.End**
+📊 Foco em **Análise de Sistemas e Desenvolvimento Front.End**
 
 📈 Experiência com acompanhamento e organização de indicadores
 
@@ -44,7 +42,7 @@ Estou construindo minha carreira na área de **Dados e Tecnologia**, buscando op
 
 Tenho interesse principalmente em:
 
-- 📊 Análise de Dados
+- 📊 Análise de Sistemas
 - 📈 Business Intelligence
 - 🗄️ Banco de Dados
 - 🔎 SQL
@@ -215,43 +213,6 @@ Tenho interesse principalmente em:
 
 # 💼 Experiência Profissional
 
-## 🏫 Coordenador Pedagógico — Microlins
-
-Atuação na organização e acompanhamento dos processos pedagógicos, alunos, turmas, professores e atividades educacionais.
-
-### Principais responsabilidades
-
-- Gestão e acompanhamento de turmas
-- Acompanhamento de alunos
-- Controle de presença e faltas
-- Organização de reposições
-- Acompanhamento de desempenho
-- Organização pedagógica
-- Acompanhamento de indicadores
-- Organização e tratamento de informações
-- Criação e utilização de planilhas
-- Desenvolvimento de controles internos
-- Comunicação com alunos
-- Comunicação com responsáveis
-- Apoio aos professores
-- Planejamento pedagógico
-- Organização de avaliações
-- Acompanhamento de atividades
-- Utilização de tecnologia na melhoria de processos
-
-### Competências desenvolvidas
-
-- Liderança
-- Gestão de pessoas
-- Organização
-- Planejamento
-- Comunicação
-- Análise de informações
-- Resolução de problemas
-- Tomada de decisão
-- Gestão de prioridades
-
----
 
 ## 👨‍🏫 Instrutor de Tecnologia — Microlins
 
