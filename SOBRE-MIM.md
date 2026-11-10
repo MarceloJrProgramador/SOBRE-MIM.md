@@ -1,14 +1,14 @@
 # 👋 Olá, eu sou Marcelo Junior
 
-### 📊 Estudante de Análise de Dados | Coordenador Pedagógico | Instrutor de Cursos Livres
+### 📊 Estudante de Análise de Sistemas | Instrutor de Cursos Livres
 
-Sou estudante de **Análise de Dados na Universidade Cruzeiro do Sul** e atualmente atuo como **Coordenador Pedagógico e Instrutor de Cursos Livres na Microlins**.
+Sou estudante de **Análise de Sistemas na Universidade Cruzeiro do Sul** e atualmente atuo como **Instrutor de Cursos Livres na Microlins**.
 
 Minha trajetória profissional reúne **tecnologia, educação, gestão, análise de informações e desenvolvimento de soluções digitais**.
 
 No ambiente profissional, trabalho com organização pedagógica, acompanhamento de alunos, gestão de turmas, indicadores, controles, planilhas, processos internos, comunicação e utilização de tecnologia para apoiar a operação e a tomada de decisão.
 
-Na área técnica, desenvolvo meus conhecimentos em **Análise de Dados, Business Intelligence, Banco de Dados, desenvolvimento web, programação, automação e Inteligência Artificial**.
+Na área técnica, desenvolvo meus conhecimentos em **Análise de Sistemas, Business Intelligence, Banco de Dados, desenvolvimento web, programação, automação e Inteligência Artificial**.
 
 Tenho interesse em transformar problemas reais em soluções utilizando **dados, tecnologia e organização de processos**.
 
